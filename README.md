@@ -1,5 +1,5 @@
 <h1 align="center">
- 🚀 Welcome to KKR GenAI Innovations 🤖
+ 🚀 Welcome to KKRGENAI Innovations LLC 🤖
 </h1>
 
 <h3 align="center"><em>Empowering Tomorrow</em></h3>
@@ -169,7 +169,7 @@ An **AI-powered medical chatbot** — currently in development. Stay tuned for u
 | 💼 **LinkedIn** | [KKR GenAI Innovations](https://www.linkedin.com/company/kkr-genai-innovations/about/) |
 | 📘 **Facebook** | [kkrgenaiinnovations](https://www.facebook.com/kkrgenaiinnovations) |
 | 📷 **Instagram** | [@kkrgenaiinnovations](https://www.instagram.com/kkrgenaiinnovations/) |
-| 📍 **Address** | 6-35 Ijjupeta Village, Laveru Mandal, Srikakulam District, Andhra Pradesh 532168, India |
+| 📍 **Address** | 11535 Park Woods Circle, Suite B, Alpharetta, GA, USA - 30005 |
 
 ---
 
