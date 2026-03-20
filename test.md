@@ -152,21 +152,6 @@ An **AI-powered medical chatbot** — currently in development. Stay tuned for u
 
 ---
 
-<h2>💬 What Our Clients Say</h2>
-
-> *"The Hadoop training was a motivating experience. The instructors were patient and individually paced the instruction beautifully."*
-> — **Savita Singh**, Director, Target Technology Services
-
-> *"The Big Data course was highly interactive, with comprehensive coverage in both width and depth."*
-> — **Dr. Makhan Virdi**, NASA Researcher
-
-> *"Full stack technology exposure. I really appreciated the instructor's experience and approachability."*
-> — **Gunjan Narulkar**, Data Semanticist
-
-> *"I would recommend this training for its practical approach to Big Data concepts."*
-> — **Sampoorna Hegde**, IBM, PMP Certified
-
----
 
 <h2>📬 Contact Us</h2>
 
