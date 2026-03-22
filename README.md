@@ -143,7 +143,7 @@ An **AI-powered medical chatbot** — currently in development. Stay tuned for u
 
 ---
 
-<h2>🎯 Why Choose KKR GenAI Innovations?</h2>
+<h2>🎯 Why Choose KKRGenAI Innovations?</h2>
 
 | Differentiator | Details |
 |---|---|
